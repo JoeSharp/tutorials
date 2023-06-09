@@ -1,5 +1,5 @@
 import React from "react";
-import { IStep } from "./Tutorial/types";
+import { IStep } from "./types";
 
 interface UseTutorialApi {
   nextStep: () => void;
